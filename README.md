@@ -21,16 +21,20 @@
 6. シーディングの実行  
     php artisan db:seed 
 
-## ユーザーのダミーデータ（管理者）  
-    メールアドレス : dousan@gmail.com  
-    パスワード : mamushinooyazi
+
      
 ## ユーザーのダミーデータ  
 
 1.  メールアドレス: asano@gmail.com  
     パスワード: naganaganaga  
 2.  メールアドレス: cleo@gmail.com  
-    パスワード: patrapatra
+    パスワード: patrapatra  
+
+## ユーザーのダミーデータ（管理者）  
+
+    メールアドレス: dousan@gmail.com  
+    パスワード: mamushinooyazi  
+    
 ## メール認証  
 1.  .envファイルに追加  
     MAIL_MAILER=smtp  
