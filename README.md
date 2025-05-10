@@ -22,8 +22,9 @@
     php artisan db:seed 
 
 ## ユーザーのダミーデータ（管理者）  
-    メールアドレス: dousan@gmail.com  
-    パスワード : mamushinooyazi  
+    メールアドレス : dousan@gmail.com  
+    パスワード : mamushinooyazi
+     
 ## ユーザーのダミーデータ  
 
 1.  メールアドレス: asano@gmail.com  

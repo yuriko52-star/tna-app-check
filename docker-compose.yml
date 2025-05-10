@@ -41,7 +41,7 @@ services:
 
   app:
     build: ./docker/php
-    container_name: laravel_app_tna1
+    container_name: tna-app-check
     ports:
       - "8000:8000"
     volumes:
